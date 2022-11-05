@@ -1,7 +1,3 @@
-# Ola, Mundo!
- Meu primeiro repositorio
-
- Repositorio criado na aula do curso de Git e GitHub do Gustavo Guanabara.
- Commit de teste para o repositorio local.
- "Aqui esta quim é maior que João Batista."
- "Jesus é o Caminho a verdade e a vida."
+JAILSON SILVA DE SOUSA!
+ 
+Desafios pessoais fazem parte da minha essência, a vida me ensinou que a competição mais importante não é contra outra pessoa e sim contra o eu, por isso sigo fazendo de mim mesmo a minha maior motivação. Ser programador foi um desafio feito por mim e sei que estou no caminho certo. 
